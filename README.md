@@ -13,6 +13,16 @@
 <!-- ============================================================ -->
 ### 🐍 Watch My Contributions Get Eaten
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lishanggajendra) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lishang Gajendra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lishangajendra2005@gmail.com) 
 
@@ -280,20 +290,6 @@ learning:    Quantum ML
 
 </div>
 
-<!-- ============================================================ -->
-<!--                     CONTRIBUTION SNAKE                       -->
-<!-- ============================================================ -->
-### 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ashishpatel26/ashishpatel26/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
