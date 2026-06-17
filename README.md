@@ -1,6 +1,17 @@
-# 💫 About Me:
-🚀 AI Engineer | Machine Learning Engineer | Data Science Student<br><br>🎓 Third-year B.Tech student passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Engineering.<br><br>💻 Building AI-powered applications, automation systems, and data-driven solutions that solve real-world problems.<br><br>🧠 Interests:<br>• Machine Learning & Deep Learning<br>• Generative AI & LLM Applications<br>• Data Science & Analytics<br>• MLOps & AI Infrastructure<br>• Full-Stack Development<br><br>🔬 Currently exploring:<br>• Agentic AI Systems<br>• RAG Architectures<br>• AI Automation Workflows<br>• Research Opportunities in AI/ML<br><br>🌱 Always learning, building, and contributing to open-source projects.<br><br>📫 Open to collaborations, internships, research opportunities, and innovative AI projects.<br>
+# Lishang Gajendra
 
+#### AI Engineer · Open Source Builder · MK Engineer · AI Mentor
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Sr.+Principal+Architect+%7C+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Scale;Open+Source+Maintainer+%7C+86k%2B+Stars;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
+</a>
+
+</div>
+
+<!-- ============================================================ -->
+<!--                     CONTRIBUTION SNAKE                       -->
+<!-- ============================================================ -->
+### 🐍 Watch My Contributions Get Eaten
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lishanggajendra) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Lishang Gajendra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lishangajendra2005@gmail.com) 
@@ -22,13 +33,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Lishang Gajendra
 
-#### AI Engineer · Open Source Builder · MK Engineer · AI Mentor
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Sr.+Principal+Architect+%7C+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Scale;Open+Source+Maintainer+%7C+86k%2B+Stars;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
-</a>
 
 </div>
 
@@ -354,7 +359,5 @@ learning:    Quantum ML
 <div align="center">
 
 **_Thanks for visiting — let's build the future of AI, together._**
-
-⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
 
 </div>
