@@ -218,7 +218,7 @@ learning:    Quantum ML
 
 </td>
 <td width="33%" valign="top" align="center">
-
+  
 </td>
 </tr>
 </table>
