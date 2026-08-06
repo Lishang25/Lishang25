@@ -12,7 +12,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🚀 _"I build production-grade AI systems and share the journey — turning 4+ years of ML research into open-source resources that 200+ developers learn from."_
+### 🚀 _"I build production-grade AI systems and share the journey — turning 3.5+ years of ML research into open-source resources that 200+ developers learn from."_
 
 </div>
 
