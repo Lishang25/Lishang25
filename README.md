@@ -1,6 +1,6 @@
 # Lishang Gajendra
 
-#### AI Engineer · Open Source Builder · ML Engineer · AI Mentor
+#### AI Engineer · Open Source Builder · ML Engineer · AI Mento
 
 </div>
 
