@@ -244,6 +244,6 @@ learning:    Quantum ML
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for visiting — let's build the future of AI, ._**
+**_Thanks for visiting — let's build the future of AI,together._**
 
 </div>
