@@ -1,4 +1,4 @@
-# Lishang G
+# Lishang Ga
 
 #### AI Engineer · Open Source Builder · ML Engineer · AI Mentor
 </div>
