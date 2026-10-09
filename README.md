@@ -1,4 +1,4 @@
-# Lishang Gaje
+# Lishang Gajen
 
 #### AI Engineer · Open Source Builder · ML Engineer · AI Mentor
 </div>
